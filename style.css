@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    background-image: url(assets/homem-de-ferro-sem-mascara.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+img {
+    height: 400px;
+    border-radius: 50px;
+}
+
+p {
+    color:bisque
+}
+
+footer p{
+    color: antiquewhite;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+    font-size: xx-large;
+    padding: 100px;
+
+}
