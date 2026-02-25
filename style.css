@@ -3,7 +3,8 @@ body {
     background-image: url(assets/wallpaper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: rgb(216, 210, 130);
+    text-align: center;
 }
 
 img {
@@ -13,17 +14,22 @@ img {
 }
 
 p {
-    color:bisque
+    color:rgb(255, 255, 255)
 }
 
 footer p{
-    color: antiquewhite;
+    color: rgb(214, 176, 126);
 }
 
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: blanchedalmond;
+    color: rgb(189, 152, 97);
     font-size: xx-large;
     padding: 100px;
+
+}
+
+main h3 {
+    text-align: center;
 
 }
