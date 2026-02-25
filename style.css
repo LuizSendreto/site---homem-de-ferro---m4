@@ -1,4 +1,5 @@
 body {
+    font-family: 'Times New Roman', Times, serif;
     background-color: black;
     background-image: url(assets/wallpaper.jpg);
     background-repeat: no-repeat;
@@ -22,7 +23,7 @@ footer p{
 }
 
 h1{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
     color: rgb(189, 152, 97);
     font-size: xx-large;
     padding: 100px;
